@@ -83,6 +83,8 @@ int main() {
 ```
 
 # OUTPUT
+![WhatsApp Image 2025-04-23 at 15 43 04_fc17ee44](https://github.com/user-attachments/assets/fc694f97-cc7f-47a6-8aad-35be05131898)
+
 ![image](https://github.com/user-attachments/assets/2a10cf0e-6646-432d-9dd0-dbb77028a224)
 
 
